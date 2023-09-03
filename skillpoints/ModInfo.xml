@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="Skill_Points" />
+	<DisplayName value="Faster Leveling." />
+	<Description value="Faster leveling and more points per level." />
+	<Author value="Pahbi" />
+	<Version value="1.0" />
+	<Website value="" />
+</xml>

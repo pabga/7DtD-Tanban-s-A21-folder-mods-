@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Zombie Health Bar"/>
+		<Description value="Now you can easily track the health of your enemies with a clear and visible health bar displayed at the top of the screen, just below the compass."/>
+		<Author value="ECETeams"/>
+		<Website value="https://twitter.com/ECETeams" />
+	</ModInfo>
+</xml>

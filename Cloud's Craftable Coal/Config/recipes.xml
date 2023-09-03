@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Adding Coal as a craftable resource-->
+<recipes>
+  <append xpath="/recipes">
+    <recipe name="resourceCoal" count="1" craft_time="3" craft_area="campfire">
+      <ingredient name="resourceWood" count="1" />
+    </recipe>
+  </append>
+</recipes>
